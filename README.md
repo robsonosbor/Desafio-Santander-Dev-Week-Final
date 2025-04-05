@@ -158,7 +158,7 @@ http://localhost:8080
 Desenvolvido por **Robson Osbor**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robsonbatista1975/) 
-- ✉️ Email: [E-mail](mailto:seu-email@example.com)
+- ✉️ Email: [E-mail](mailto:email@email.com)
 
 ---
 
