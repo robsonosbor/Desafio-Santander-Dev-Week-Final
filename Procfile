@@ -1,0 +1,1 @@
+web: java -jar build/libs/RESTful-Api-Java-0.0.1-SNAPSHOT.jar
